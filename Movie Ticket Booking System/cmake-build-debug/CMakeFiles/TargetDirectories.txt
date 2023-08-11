@@ -1,0 +1,3 @@
+/home/cyborgx/Desktop/CodSoft/Movie Ticket Booking System/cmake-build-debug/CMakeFiles/Movie_Ticket_Booking_System.dir
+/home/cyborgx/Desktop/CodSoft/Movie Ticket Booking System/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cyborgx/Desktop/CodSoft/Movie Ticket Booking System/cmake-build-debug/CMakeFiles/rebuild_cache.dir

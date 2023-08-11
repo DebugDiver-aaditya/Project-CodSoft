@@ -1,0 +1,3 @@
+/home/cyborgx/Desktop/CodSoft/Simple Calculator/cmake-build-debug/CMakeFiles/Simple_Calculator.dir
+/home/cyborgx/Desktop/CodSoft/Simple Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cyborgx/Desktop/CodSoft/Simple Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
