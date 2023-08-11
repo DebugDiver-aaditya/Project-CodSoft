@@ -1,6 +1,6 @@
 # Project-CodSoft
 Project-CodSoft
-This repository contains three C++ projects that I created for a company named CodSoft. The projects are:
+This repository contains three C++ projects that I created for CodSoft while doing internship in CodSoft. The projects are:
 
 Movie Ticket Booking System: A program that allows users to book movie tickets online, choose their seats, and pay with different methods.
 Random Number Guessing Game: A game that generates a random number between 1 and 100 and asks the user to guess it. The user gets feedback on whether their guess is too high or too low, and has a limited number of attempts.
